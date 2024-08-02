@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.deploy 
+.jekyll-cache
+Gemfile.lock
+.DS_store
+.ruby-version
